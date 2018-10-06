@@ -1,0 +1,48 @@
+Datacenter: datacenter1; Host: localhost/127.0.0.1; Rack: rack1
+Error reading key: user7224773948808805646
+Error reading key: user5003512223112076956
+Error reading key: user5697625139267017221
+[OVERALL], RunTime(ms), 370174.0
+[OVERALL], Throughput(ops/sec), 1080.5729197620578
+[TOTAL_GCS_PS_Scavenge], Count, 698.0
+[TOTAL_GC_TIME_PS_Scavenge], Time(ms), 1149.0
+[TOTAL_GC_TIME_%_PS_Scavenge], Time(%), 0.3103945712016511
+[TOTAL_GCS_PS_MarkSweep], Count, 0.0
+[TOTAL_GC_TIME_PS_MarkSweep], Time(ms), 0.0
+[TOTAL_GC_TIME_%_PS_MarkSweep], Time(%), 0.0
+[TOTAL_GCs], Count, 698.0
+[TOTAL_GC_TIME], Time(ms), 1149.0
+[TOTAL_GC_TIME_%], Time(%), 0.3103945712016511
+[READ], Operations, 399997.0
+[READ], AverageLatency(us), 648.2279717097879
+[READ], MinLatency(us), 235.0
+[READ], MaxLatency(us), 2101247.0
+[READ], 95thPercentileLatency(us), 620.0
+[READ], 99thPercentileLatency(us), 846.0
+[READ], Return=OK, 399997
+[READ], Return=ERROR, 3
+[READ-MODIFY-WRITE], Operations, 199353.0
+[READ-MODIFY-WRITE], AverageLatency(us), 1071.9198958631173
+[READ-MODIFY-WRITE], MinLatency(us), 511.0
+[READ-MODIFY-WRITE], MaxLatency(us), 2103295.0
+[READ-MODIFY-WRITE], 95thPercentileLatency(us), 1083.0
+[READ-MODIFY-WRITE], 99thPercentileLatency(us), 1791.0
+[CLEANUP], Operations, 1.0
+[CLEANUP], AverageLatency(us), 2286592.0
+[CLEANUP], MinLatency(us), 2285568.0
+[CLEANUP], MaxLatency(us), 2287615.0
+[CLEANUP], 95thPercentileLatency(us), 2287615.0
+[CLEANUP], 99thPercentileLatency(us), 2287615.0
+[UPDATE], Operations, 199353.0
+[UPDATE], AverageLatency(us), 419.13836260302077
+[UPDATE], MinLatency(us), 207.0
+[UPDATE], MaxLatency(us), 1445887.0
+[UPDATE], 95thPercentileLatency(us), 489.0
+[UPDATE], 99thPercentileLatency(us), 611.0
+[UPDATE], Return=OK, 199353
+[READ-FAILED], Operations, 3.0
+[READ-FAILED], AverageLatency(us), 5033301.333333333
+[READ-FAILED], MinLatency(us), 5005312.0
+[READ-FAILED], MaxLatency(us), 5087231.0
+[READ-FAILED], 95thPercentileLatency(us), 5087231.0
+[READ-FAILED], 99thPercentileLatency(us), 5087231.0
